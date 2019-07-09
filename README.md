@@ -5,6 +5,7 @@
 
 ## 📖[Book](https://github.com/Fotic/Translation-Assignment-LaTeX/blob/master/deeplearningbook.pdf)
 **Name:** Deep Learning
+
 **Authors:** Ian Goodfellow, Yoshua Bengio, Aaron Courville
 
 ## 🧰 Requirements
